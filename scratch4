@@ -1,0 +1,7 @@
+.stick_trigger_container {height: 468px !important;}
+
+#gd_home_map_wrapper {height: 468px !important;}
+
+#sticky_map_gd_home_map {height: 468px !important;}
+
+.top_banner_section .geodir_map_container .geodir-map-home-page {height: 468px !important;}

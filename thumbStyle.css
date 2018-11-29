@@ -1,0 +1,32 @@
+.showawpcpadpage li {width: auto !important; display: inline !important;}
+
+.showawpcpadpage .thickbox {
+  width: 54px !important;
+	height: 54px !important;
+}
+
+.showawpcpadpage .thickbox .thumbshow {
+  width: 54px !important;
+	height: 54px !important;
+  display: inline;
+}
+
+.thumbshow {
+    background: #ffffff;
+    border: 0;
+    display: inline;
+    padding-right: 9px;
+}
+
+.showawpcpadpagePrimary .awpcp-ad-primary-image .thumbshow {
+  width: 498px !important;
+	height: 324px !important;
+  display: block;
+  float: left !important;
+  margin-bottom: 24px !important;
+}
+
+div#showawpcpadpage{
+  width: 498px !important;
+  display: block;
+}

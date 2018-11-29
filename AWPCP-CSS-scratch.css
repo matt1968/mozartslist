@@ -1,0 +1,74 @@
+button:hover, button:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:focus {
+    background: #ffffff !important;
+    color: #000000;
+	font-family: "futura-pt",sans-serif !important;
+	border: 1px solid #cccccc !important;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+	line-height: 18px;
+	padding: 0.84375em 0.875em 0.78125em;
+	text-transform: none;
+}
+.wpbdp-main-box-large button, button[disabled]:hover, button[disabled]:focus, input[type="button"], input[type="button"][disabled]:hover, input[type="button"][disabled]:focus, input[type="reset"], input[type="reset"][disabled]:hover, input[type="reset"][disabled]:focus, input[type="submit"], input[type="submit"][disabled]:hover, input[type="submit"][disabled]:focus {
+   background: #ffffff !important;
+    color: #000000;
+	font-family: "futura-pt",sans-serif !important;
+	border: 1px solid #cccccc !important;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+	line-height: 18px;
+	padding: 0.84375em 0.875em 0.781
+}
+button, button[disabled]:hover, button[disabled]:focus, input[type="button"], input[type="button"][disabled]:hover, input[type="button"][disabled]:focus, input[type="reset"], input[type="reset"][disabled]:hover, input[type="reset"][disabled]:focus, input[type="submit"], input[type="submit"][disabled]:hover, input[type="submit"][disabled]:focus {
+    background: #ffffff !important;
+    color: #000000;
+	font-family: "futura-pt",sans-serif !important;
+	border: 1px solid #cccccc !important;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+	line-height: 18px;
+	padding: 0.84375em 0.875em 0.781
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+button, input, textarea {
+    background: #ffffff !important;
+    color: #000000;
+	font-family: "futura-pt",sans-serif !important;
+	border: 1px solid #cccccc !important;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+	line-height: 18px;
+	padding: 0.84375em 0.875em 0.781
+}
+input {
+    border: 1px solid #cccccc;
+}
+input {
+    line-height: normal;
+}
+body, button, input, select, textarea {
+ background: #ffffff !important;
+    color: #000000;
+	font-family: "futura-pt",sans-serif !important;
+	border: 1px solid #cccccc !important;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+	line-height: 18px;
+	padding: 0.84375em 0.875em 0.781
+}
+input, select, textarea {
+    max-width: 100%;
+}
+input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
